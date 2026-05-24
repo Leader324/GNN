@@ -1,1 +1,5 @@
-wow
+The original paper link -> https://arxiv.org/pdf/1609.02907.pdf
+Easier-understanding text paraphrase in paraphrase.docx, sometimes you can even see trash talks
+Serious discussion/ formal report-like in report.docx, no fluff
+simple GCN model in GCN-pytorch.py
+with pyg -> GCN-pyg.py
